@@ -1,7 +1,7 @@
 # Hi, I'm Faiq Hassan 👋
 
 **IT Graduate & Master's Student in Information Technology at GCUF (Faisalabad, Pakistan)**  
-Focused on **computer vision research**, **web development**, and **database-driven applications**.
+Focused on **computer vision research**, **web development**, **database management**, and **data analysis**.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Faiq%20Hassan-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faiq-hassan-)
 [![Email](https://img.shields.io/badge/Email-i.faiqhassan1%40gmail.com-444444?style=flat&logo=gmail&logoColor=white)](mailto:i.faiqhassan1@gmail.com)
@@ -12,9 +12,9 @@ Focused on **computer vision research**, **web development**, and **database-dri
 
 ## About Me
 
-- 🎓 Pursuing a **Master of Information Technology** at Government College University Faisalabad (GCUF)
+- 🎓 Pursuing a **Master of Information Technology** (2025–2027) at Government College University Faisalabad (GCUF)
 - 🔬 Corresponding author on peer-reviewed **YOLO-based object detection** research
-- 💻 Building practical, database-backed web applications with **PHP, MySQL, HTML, CSS, and JavaScript**
+- 💻 Experienced in **web technologies**, **database management systems**, **data analysis**, and **IT project coordination**
 - 🤝 Open to collaboration on **computer vision**, **web development**, and **applied AI research**
 
 ---
@@ -23,7 +23,7 @@ Focused on **computer vision research**, **web development**, and **database-dri
 
 ### Automated Detection of Nocturnal Blue Tears Using YOLO12n and CutMix Data Augmentation
 **Authors:** S. Nazeer, A. Qadeer, R. Saleem, S. Asghar, **F. Hassan\*** *(corresponding author)*  
-**Publication:** *Journal of Magnetism and Its Applications*, 2026 · [DOI: 10.5281/zenodo.24392762](https://doi.org/10.5281/zenodo.24392762)
+**Publication:** *Journal of Magnetism and Its Applications*, 2026, pp. 69–73 · [DOI: 10.5281/zenodo.24392762](https://doi.org/10.5281/zenodo.24392762)
 
 Developed a lightweight one-class **YOLO12n** detector to identify faint, transient blue bioluminescence in night-time coastal imagery, evaluated on the **BT3.8k** dataset (3,827 annotated images from 241 user-uploaded videos).
 
@@ -48,31 +48,54 @@ Developed a lightweight one-class **YOLO12n** detector to identify faint, transi
 ![YOLO](https://img.shields.io/badge/YOLO-Object%20Detection-00FFFF?style=flat)
 
 - **Web Development:** HTML5, CSS3, JavaScript, PHP
-- **Databases:** SQL, MySQL
+- **Databases & Data:** SQL, MySQL, Data Analysis, Database Management Systems (DBMS)
 - **AI & Research:** YOLO object detection, CutMix data augmentation, model evaluation, technical writing
+- **Operations & Project Skills:** IT project coordination, Google Ads, e-commerce operations, client communication
 
 ---
 
 ## Featured Work
 
 - **[Nocturnal Blue Tears Detection](https://doi.org/10.5281/zenodo.24392762)** — One-class YOLO12n + CutMix pipeline achieving 95.09% mAP@50 on the BT3.8k coastal bioluminescence dataset.
-- **[Online Voting System](https://github.com/ifaiqhassan1/online-voting-system)** — Final-year project (graded **A**, presented individually): secure web-based voting platform supporting CNIC/username authentication and overseas voting, built with HTML, CSS, PHP, and MySQL.
+- **[Online Voting System](https://github.com/ifaiqhassan1/online-voting-system)** — Final-year project (graded **A**, presented individually): secure web-based voting platform supporting CNIC/username authentication and overseas voting, built with HTML, CSS, PHP, and MySQL. Served as Project Presenter, Research & Documentation lead (workflow presentation, feature demo, report, and slides).
 
 ---
 
 ## Experience
 
-- **Admin Manager**, Peak Solutions *(March 2026 – November 2026)*
-- **Intern (PSEB Program)**, Balash Tech *(October 2025 – March 2026)* — Google Ads, e-commerce operations, and client outreach
+### Admin Manager — Peak Solutions
+*March 2026 – November 2026*
+- Oversaw daily administrative operations and coordinated office workflows.
+- Managed scheduling, records, and documentation to support smooth team coordination.
+- Handled communication and follow-ups with staff, clients, and stakeholders, and monitored tasks and deadlines.
+
+### Intern (PSEB Program) — Balash Tech
+*October 2025 – March 2026*
+- Managed and assisted in Google Ads campaigns supporting digital marketing strategies.
+- Supported e-commerce operations, including online product and store management.
+- Conducted client outreach, lead identification, and professional follow-up calls.
+
+---
 
 ## Education
 
-- **Master of Information Technology**, GCUF *(In Progress — CGPA 3.35/4.0)*
-- **Bachelor of Information Technology**, GCUF *(CGPA 3.44/4.0)*
+- **Master of Information Technology**, GCUF, Faisalabad *(2025 – 2027, In Progress — CGPA 3.35/4.0)*
+- **Bachelor of Information Technology**, GCUF, Faisalabad *(2021 – 2025 — CGPA 3.44/4.0)*
 
-## Certifications
+---
 
-- **Introduction to Web Development with HTML, CSS, JavaScript** — IBM, via Coursera *(August 2026)*
+## Certifications & Leadership
+
+- **Introduction to Web Development with HTML, CSS, JavaScript** — IBM, via Coursera *(2026)*
+- **Professional Development Course** — Peak Solutions *(communication skills, leadership, career development, and workplace ethics)*
+- **Class Representative (CR)** — Served 4 years during Bachelor's and continuing in Master's at GCUF
+- **Student Societies & Honors** — Event Management with TechInnovate Society and Beaconites Quiz Society (BQS); Academic Excellence Scholarships
+
+---
+
+## Languages
+
+`English (Fluent)` · `Urdu (Native)` · `Punjabi (Native)` · `Italian (Intermediate)`
 
 ---
 
